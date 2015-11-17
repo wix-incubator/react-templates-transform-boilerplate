@@ -1,0 +1,56 @@
+
+body {
+  font: 1rem proxima-nova, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+
+.todo {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #f8f8f5;
+  padding: 20px 30px;
+  margin-left: 30px;
+  height: 301px;
+  max-height: 308px;
+  overflow: auto;
+}
+
+button {
+  margin: 5px;
+}
+
+input[type=checkbox] {
+  margin-right: 5px;
+}
+
+ul {
+  list-style-type: square;
+  margin: 0 0 10px 0
+}
+
+input {
+  border: 1px solid #ccc;
+  font: 14px proxima-nova, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  padding: 3px;
+  width: 150px
+}
+
+button {
+  font: 14px proxima-nova, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  margin-left: 5px;
+  padding: 4px 10px
+}
+
+.todo-item {
+  img {
+    cursor: pointer
+  }
+
+  span {
+    text-decoration: none;
+  }
+
+  .done {
+    text-decoration: line-through
+  }
+}
+
