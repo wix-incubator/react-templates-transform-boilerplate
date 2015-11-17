@@ -3,7 +3,7 @@ React Templates Transform Boilerplate
 
 
 
-A *new* React-templates Webpack boilerplate based on (https://github.com/gaearon/react-transform-boilerplate)
+A *new* React-templates Webpack boilerplate based on https://github.com/gaearon/react-transform-boilerplate
 
 ## Getting started
 
