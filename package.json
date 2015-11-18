@@ -1,5 +1,5 @@
 {
-  "name": "react-transform-boilerplate",
+  "name": "react-templates-transform-boilerplate",
   "version": "1.0.0",
   "description": "A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaearon/react-transform-boilerplate.git"
+    "url": "https://github.com/wix/react-templates-transform-boilerplate.git"
   },
   "keywords": [
     "react",
@@ -24,14 +24,15 @@
     "edit",
     "webpack",
     "babel",
-    "react-transform"
+    "react-transform",
+    "react-templates"
   ],
-  "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
+  "author": "idok (http://github.com/wix)",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/gaearon/react-transform-boilerplate/issues"
+    "url": "https://github.com/wix/react-templates-transform-boilerplate/issues"
   },
-  "homepage": "https://github.com/gaearon/react-transform-boilerplate",
+  "homepage": "https://github.com/wix/react-templates-transform-boilerplate",
   "devDependencies": {
     "babel-core": "^5.4.7",
     "babel-eslint": "^3.1.9",
