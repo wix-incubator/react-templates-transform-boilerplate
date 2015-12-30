@@ -2,5 +2,7 @@ import React, { Component } from 'react';
 import template from './App.rt';
 
 export class App extends Component {
-  render = template
+  render() {
+      return template()
+  }
 }
