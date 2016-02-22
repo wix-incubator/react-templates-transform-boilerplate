@@ -11,6 +11,7 @@ A *new* React-templates Webpack boilerplate based on https://github.com/gaearon/
 git clone https://github.com/wix/react-templates-transform-boilerplate.git
 cd react-templates-transform-boilerplate
 npm install
+webpack --config webpack.config.dev.js || webpack --config webpack.config.prod.js  
 npm start
 open http://localhost:3000
 ```
