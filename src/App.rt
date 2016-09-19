@@ -1,4 +1,4 @@
-<rt-require dependency="./Todo" as="Todo"/>
+<rt-import from="./Todo" name="Todo"/>
 <div>
     <Todo class="todo"></Todo>
 </div>
